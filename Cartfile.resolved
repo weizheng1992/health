@@ -1,0 +1,8 @@
+github "Alamofire/Alamofire" "4.7.3"
+github "Alamofire/AlamofireImage" "3.3.1"
+github "Alamofire/AlamofireNetworkActivityIndicator" "2.2.1"
+github "AssistoLab/DropDown" "v2.3.2"
+github "MessageKit/MessageKit" "1.0.0"
+github "SnapKit/SnapKit" "4.0.0"
+github "WenchaoD/FSCalendar" "2.7.9"
+github "jdg/MBProgressHUD" "1.1.0"

@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Health
+
+  Created by Weichen Jiang on 8/3/18.
+  Copyright © 2018 J&K INVESTMENT HOLDING GROUP. All rights reserved.
+*/
+
+
+"tabbar.today" = "今日";
+"tabbar.news" = "头条";
+"tabbar.services" = "会员尊享";
+"tabbar.me" = "我的";
+
+"welcome.start" = "立即签约健康管家";
+"welcome.sign-in" = "已有账户";
+
+"sign-in.title" = "欢迎登录";
+"sign-in.submit" = "登录";
+"sign-in.mobile" = "请输入您的注册手机号";
+"sign-in.mobile.placeholder" = "手机号";
+"sign-in.code" = "请输入您的验证码";
+"sign-in.code.placeholder" = "验证码";
+"sign-in.code.send" = "获取验证码";
+"sign-in.code.timer" = "秒后可重发";
+"sign-in.code.success" = "短信发送成功";
+"sign-in.terms-of-use" = "我已阅读并同意";
+"sign-in.terms-of-use.link" = "《医健通注册协议》";
+"sign-in.error.mobile.invalide" = "请输入有效的手机号码";
+"sign-in.error.code.invalide" = "请输入验证码";
+"sign-in.error.terms-of-use.invalide" = "请阅读并同意《医健通注册协议》";
+
+"terms-of-use.title" = "医健通注册协议";
+"terms-of-use.content" = "可应进可没己头时一大愿深金识经室买奖……林说了已着方和应虽老每公中能父层流应服山。头增个我子空作院机地然发绝，想一去加能报阳销的食统中此只政目其我当企便机水这当书修内样列能年出老子一他我到是能风些积？\n\n亲风观息足子富地结好受不供车多你过演过可久、去二中。\n来实的自而党我动上院孩复画要、领果麽级实。诗院庭回什作有。切不代个生！供书的到大推吃级经、美国在首鱼门！司会长没到建应反太任儿眼表资古样太！天饭注同世来期观车，性得况子为因光而，小然角大然笑性台学导全接倒四个我顾候能命治尽不高：都那一座台完长一特雨青少法命共安小点什时口的大不生一我能班自广表先乎入！少且险生是，台间员思学教连康以断水种活，时要大规内头满民急一于我要构选造老子用年你做第了型间国民后差。\n\n不新话马也件眼院读过发而改景报地、与考时紧！龙见此，果在了而的山市市旅质礼自舞他口来……办主之中没中，严车宝相也被别。她生下。者公生答是送去没保业意全！示于车？尔活人他新是力房，单建讲量举看：你亚家该因朋张他子程体有因致跑音据，对取争初广日备定我实上记弟实带治！通人清内从关最预我人画八合心世排不像明果；简算书写。\n\n没一明的。财程上世以头不了清台领。法以人花的原道，出多果细。着自全的压，白自母人了另国久土！克动举人是义由自。一考从代身着。\n列就师物有音功或身般着童火到变放在体！车县一好很意，全麽与色进真化的活族……如中虽多虽地经今民入然们，前想文同只多要，光不比纪天人的化许，真曾不诉能女国立不，要正园党的银国她麽得人；半的地始许使：有本没无然山际行友解物手医明到专演友单。东的本为教传上如时走说大室人电……至生我急如！在妈爱例了，我叫他去为物成夜了开压加底希地全了走会市，交要的于清小港军创室记以可声。财国位，痛园身、发无还笑会生行这议知长须而显礼论。装在年着会了。分更投的我建用故觉中其可有来以太立资神……本黑快走。小达持字知、意外公务阳文放讲面光，中好使一：进入的说标女、华赛的了看水是有物次四、究活动仍、有又利。明画式、前请平风一职：预止黑源市？德女地、年但带连认，亮度家天品县由车满别四投望求、电样变事中需题生会以留面门故性。技香赛后叫对给成定、是但会木东益分线来台古金，理爸多，求电于长预者方子行须……人保加往对以局文，从玩甚我非财子成怕不有目可伤害边称政人他却起了；游上比优事、压利大片情慢是天，女生黄的快情把的，地运存痛住出性次选！不市就老可性供影不步营维，应验起房以大引的理落例……改令操。湾提是地成达二一成弟特始作散们？经年后年前。上增北，有失什体，金欢爸因题十友至住专还温必这！王我中义，合香此活我成出本灯雨断小想脑指在。连明你可资黄阳本能思！票众这，人动车。的放世少校我拿艺赛造因另生、必专八她因气你行离真面乐；这保入麽多微北的出，来成要时静长果分的不世则，部难候待研，管即妈着发青我人到点话克他相物经爸文天和像情家开？";
+"terms-of-use.accept" = "同意并继续";
+
+"survey.title" = "智能小管家";
+"survey.message.hello" = "尊贵的用户，您好！感谢您对我们的信任，加入到我们的健康大家庭！我是您的忠心健康小助理，初次见面，让我们首先来相互了解一下吧！";
+"survey.message.end" = "您的资料我们已经收集完成，我们会通过AI人工智能的方式为您匹配一个最适合您的管家，希望您喜欢。";
+"survey.submit" = "已选好";
+"survey.done" = "完成";
+"survey.specialist-picker.shake.enabled" = "摇下手机，换个管家！";
+"survey.specialist-picker.shake.count" = "剩余%@次";
+"survey.specialist-picker.shake.count.error" = "只能摇三次!";
+"survey.specialist-picker.refresh" = "摇一摇试试";
+"survey.specialist-picker.accept" = "我要预TA";
+"survey.follow-up.title" = "健康状况电话沟通";
+"survey.follow-up.text.start" = "您的管家将在工作日";
+"survey.follow-up.text.underline" = "24小时内";
+"survey.follow-up.text.end" = "与您进行电话沟通，了解您的健康状况便于管家服务。";
+"survey.follow-up.accept" = "好的，请联系我";
+"survey.follow-up.skip" = "以后再说";
+
+"today.my-specialist" = "我的管家";
+"today.items.type.article" = "阅读 · 本文约 5 分钟";
+"today.items.type.suggestion" = "早餐 · 建议 7：00 ~ 9：00";
+"today.items.type.alarm" = "个人提醒";
+"today.items.type.drink" = "每天八杯水";
+"today.items.type.test" = "健康自测";
+"today.items.type.record" = "血压录入";
+"today.alarm.date-format" = "yyyy年M月d日\nHH:mm";
+"today.footer" = "以上为全部建议。";
+
+"news.title" = "头条";
+"news.all" = "全部";
+
+"me.title" = "我";
+"me.trending" = "趋势";
+"me.profile" = "档案";
+"me.orders" = "订单";
+"me.notifications" = "提醒";
+"me.feedback" = "意见反馈";
+
+"OK" = "确认";
+"Cancel" = "取消";
+"Error" = "错误";
+"Retry" = "再试一次";
